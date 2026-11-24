@@ -12,7 +12,7 @@ from datetime import datetime
 
 # ⚙️ ตั้งค่าที่ได้จากหน้า ThaiCandy /systems/register
 CONFIG = {
-    "thaicandy_url": "http://127.0.0.1:8120",  # เปลี่ยนเป็น URL จริงของคุณ
+    "thaicandy_url": "http://127.0.0.1:8120",  "https://www.facebook.com/share/1BjhVjiAfY/", # เปลี่ยนเป็น URL จริงของคุณ
     "system_id": "tc_xxxxxxxxxxxx",
     "connection_token": "tct_xxxxxxxxxxxxxxxxxxxxxxxx",
     "system_name": "ระบบของฉัน",
